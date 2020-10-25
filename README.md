@@ -14,6 +14,6 @@
 - Adding More Number of Courses on your Resume doesn't make any sense if you don't have the Knowledge.
 - Adding Work Experience along with the Project which you have worked on,will create good impression.
 - Never Lie on Your Resume.
-- Mention those languages/Technologies which you are confident in.
+- Mention those Programming languages/Technologies which you are confident in.
 - Fancy resume is no guarantee for your Selection.
 - Always add your Contact Details on Resume.Email & Phone are Must!
