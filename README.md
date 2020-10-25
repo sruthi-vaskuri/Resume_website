@@ -18,4 +18,4 @@
 - Never Lie on Your Resume.
 - Mention those Programming languages/Technologies which you are confident in.
 - Fancy resume is no guarantee for your Selection.
-- Always add your Contact Details on Resume.Email & Phone are Must!
+- Always add your Contact Details on Resume , Email & Phone are Must!
