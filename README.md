@@ -27,4 +27,6 @@
 ## Block diagram of the functions and how they are connected with the description of inputs and outputs :
 
 
-![Mlbockdiagram]()
+
+![block](https://user-images.githubusercontent.com/61200479/97178672-d1243180-17bd-11eb-856f-32e98ee99ba6.PNG)
+
