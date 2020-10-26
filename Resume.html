@@ -1,0 +1,94 @@
+<!-- Sample Resume Template that automates the design of CV by taking inputs from the user.
+
+     Well Designed and Structured CV that displays the skills of the applicants-->
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume Bot</title>
+<meta charset="UTF-8"> 
+
+<link type="text/css" rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300' rel='stylesheet' type='text/css'>
+
+</head>
+<body id="top">
+<div id="cv" class="instaFade">
+	<div class="mainDetails">
+		
+		<div id="name">
+			<h1 class="quickFade delayTwo"><span id="result-name"></span></h1>
+			<h2 class="quickFade delayThree"><span id="result-job"></span></h2>
+		</div>
+		
+		<div id="contactDetails" class="quickFade delayFour">
+			<ul>
+				<li>Email : <span id="result-email"></span></li>
+				<li>Phone : <span id="result-phno"></span></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div id="mainArea" class="quickFade delayFive">
+		<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>Profile</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p><span id="result-profile"></span></p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Projects</h1>
+			</div>
+			<div class="sectionContent">
+				<article>
+					<h2><span id="result-projectname"></span></h2>
+					<p><span id="result-projectdetails"></span></p>
+				</article>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Skills</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<ul class="keySkills">
+                    <li><span id="result-skills1"></span></li>
+					<li><span id="result-skills2"></span></li>
+                    <li><span id="result-skills3"></span></li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</section>
+		<section>
+			<div class="sectionTitle">
+				<h1>Education</h1>
+			</div>
+			<div class="sectionContent">
+				<article>
+					<h2><span id="result-college"></span></h2>
+					<p class="subDetails"><span id="result-qualification"></span></p>
+					<p><span id="result-description"></span></p>
+				</article>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+	</div>
+</div>
+<script src="Resume.js"></script>
+</body>
+</html>
