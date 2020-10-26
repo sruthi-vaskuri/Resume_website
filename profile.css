@@ -1,0 +1,77 @@
+/* Design of Profile page*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.body{
+
+    font-family: sans-serif;
+}
+nav{
+    background-color: #222;
+    color:white;
+    width:100%;
+}
+.logo{
+    padding-left: 100px;
+    padding-right: 100px;
+    line-height: 60px;
+    font-size: 25px;
+    text-align: center;
+    align-content: center;
+}
+.logo1{
+    font-size: 25px;
+    margin-left: 20%;
+}
+.form-center1{
+    width: 100%;
+    max-width: 700px;
+    margin: auto;
+    padding:40px;
+    padding-left: 100px;
+    box-shadow: 2px 5px 15px grey;
+    margin-top:6%;
+    align-items: left;
+    animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    50% {box-shadow: 20px 30px 40px grey;}
+  }
+  .profile h1{
+      text-align: center;
+      line-height: 50px;
+      margin-bottom: 20px;
+      margin-left: -50px;
+  }
+.box {
+    display: block;
+    width: 75%;
+    height: calc(1.5em + 0.75rem + 2px);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color:transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2.5px solid black;
+    outline-style: none;
+}
+.bio{
+    display: block;
+    width :75%;
+    height: 100px;
+    border: 1.5px solid black;
+}
+.box2{
+    width:75%;
+    height: calc(1.5em +0.75rem + 2px);
+    font-size: 1rem;
+    font-weight: 400;
+    
+}
+.btn{
+    margin: 40px;
+    margin-left: 40%;
+}
