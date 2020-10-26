@@ -24,7 +24,7 @@
 
 [![youtube link](https://img.youtube.com/vi/-xJxLaWgj3I/0.jpg)](https://www.youtube.com/watch?v=-xJxLaWgj3I)
 
-## Block diagram of the functions and how they are connected with the description of inputs and outputs :
+## Block diagram that demonstrates how our RESUME Website works :
 
 
 
