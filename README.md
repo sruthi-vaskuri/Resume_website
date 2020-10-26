@@ -14,6 +14,14 @@
 - RESUME builder website is a great design tool that automates the process of designing CV's for the applicants.
 - Applicants can create an exclusive resume just simply by filling the required details.
 - With the help of mobile responsive RESUME Website , Applicants can build their own CV even without any PC.
+- Smooth user interface makes it clear and easy to build your own resume effortlessly.
+- Three simple steps to be followed to build your CV : 
+  
+  STEP 1 - LOGIN to the website if already have an account by using username and password else CREATE AN ACCOUNT.
+  
+  STEP 2 - Fill the required details and mention creative projects and work experience to make your resume impressive.
+  
+  STEP 3 - Click "Download CV" button to generate your CV.
 
 ## Youtube Link :
 
@@ -24,9 +32,4 @@
 
 
 ![block](https://user-images.githubusercontent.com/61200479/97178672-d1243180-17bd-11eb-856f-32e98ee99ba6.PNG)
- 
-## Repl Link :
-
--frenchpopularsearch.sruthi5f1.repl.co
- 
 
