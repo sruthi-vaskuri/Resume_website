@@ -36,6 +36,6 @@
 ## Checkout Our Resume Website Here :
 http://frenchpopularsearch.sruthi5f1.repl.co/
 
-## Chat with Our Conversation Bot :
+## Chat with Our Resume Builder Chatbot :
 https://famoushonesttrace.sruthi5f1.repl.co/
 
